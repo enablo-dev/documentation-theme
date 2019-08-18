@@ -15,3 +15,11 @@ body {
 .footer-copyright {
   margin: 1rem 0;
 }
+
+.header-logo {
+  margin: 15px 0;
+}
+
+.header-logo img {
+  height: 24px;
+}
