@@ -35,3 +35,7 @@ a:hover {
 .layout-area .layout-wrapper {
   padding: 24px 0px;
 }
+
+.layout-wrapper ul {
+  margin-bottom: 30px;
+}
