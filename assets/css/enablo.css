@@ -1,0 +1,17 @@
+.body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.layout-area {
+  flex-grow: 1;
+}
+
+.footer-copyright p {
+  padding: 0;
+}
+
+.footer-copyright {
+  margin: 1rem 0;
+}

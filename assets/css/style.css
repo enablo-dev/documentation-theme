@@ -69,7 +69,8 @@ body {
   font-weight: 400;
   color: #404040;
   background-size: cover !important;
-  overflow-x: hidden; }
+  overflow-x: hidden;
+}
 
 ul, ol {
   padding: 0;
