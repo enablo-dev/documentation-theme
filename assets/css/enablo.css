@@ -23,3 +23,7 @@ body {
 .header-logo img {
   height: 24px;
 }
+
+.layout-area .layout-wrapper {
+  padding: 24px 0px;
+}
