@@ -4,6 +4,15 @@ body {
   flex-direction: column;
 }
 
+a {
+  color: #0C81FB;
+}
+
+a:hover {
+  color: #00CAEF;
+  text-decoration: underline;
+}
+
 .layout-area {
   flex-grow: 1;
 }
