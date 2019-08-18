@@ -8,6 +8,10 @@ a {
   color: #0C81FB;
 }
 
+a:hover {
+  color: #00CAEF;
+}
+
 .layout-area {
   flex-grow: 1;
 }
